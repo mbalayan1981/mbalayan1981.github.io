@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ivushka.com.ua/sitemap.xml
